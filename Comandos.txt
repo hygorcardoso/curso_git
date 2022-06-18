@@ -1,0 +1,6 @@
+Git init -> Inicia um repositório
+Git config --global user.name "Name" -> Configura nome do usuário global
+Git config --global user.email "Email" -> Configurar e-mail global.
+
+git branch -> Apresenta as branchs existentes.
+git branch origin -> Inicia uma branch com o nome de origin
